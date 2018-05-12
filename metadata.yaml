@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '25197'
     url: http://www.gutenberg.org/2009/agents/25197
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22515#The-Modern-Scottish-Minstrel-Volumes-I-VI.The-Songs-of-Scotland-of-the-Past-Half-Century
 gutenberg_issued: '2007-09-05'
 gutenberg_type: Text
 identifiers:
